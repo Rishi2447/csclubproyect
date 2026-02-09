@@ -1,0 +1,10 @@
+{
+    "name": "ok proyect",
+    "description": "proyect: data",
+    "version": "0.0.0.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "testpopup.html",
+      "default_icon": "icon.png"
+    }
+  }
